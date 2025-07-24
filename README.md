@@ -51,8 +51,8 @@ Spotify-style recommender with:
 ---
 
 ## 📫 Contact Me
-- Email: [meshramaditya2600@gmail.com](mailto:adime1300@gmail.com)
-- LinkedIn: [[linkedin.com/in/aditya2600](https://linkedin.com/in/aditya2600](https://www.linkedin.com/in/aditya-meshram-899955253/))
+- Email: [adime1300@gmail.com](mailto:adime1300@gmail.com)
+- LinkedIn: [linkedin.com/in/aditya-meshram-899955253](https://www.linkedin.com/in/aditya-meshram-899955253/)
 - GitHub: [github.com/Aditya2600](https://github.com/Aditya2600)
 
 ---
